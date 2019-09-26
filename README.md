@@ -1,5 +1,5 @@
 # raspberry_pi_camera
-本算法为利用树莓派（raspberry pi）配合两个USB摄像头搭建的建议双摄像头图像采集装置。
+本算法为利用树莓派（raspberry pi）配合两个USB摄像头搭建的简易双摄像头图像采集装置。
 
 ## python第三方包
 pygame
